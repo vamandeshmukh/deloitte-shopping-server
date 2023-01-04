@@ -1,5 +1,5 @@
-Steps 
------
+Steps to use deloitte-shopping-server
+-------------------------------------
 
 1. On CMD run - 
 
